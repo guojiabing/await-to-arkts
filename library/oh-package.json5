@@ -1,10 +1,10 @@
 {
   "name": "await-to-arkts",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "keywords": [
-    "OpenHarmony",
-    "HarmonyOS",
     "arkts",
+    "promise",
+    "error",
     "async await",
     "async",
     "await",

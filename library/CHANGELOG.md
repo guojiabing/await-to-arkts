@@ -8,8 +8,11 @@
 
 ## [v1.0.2] 2024-07
 
-修改 README.md 文件, ArkTs usage
+修改 `README.md`, ArkTs usage
 
+## [v1.0.3] 2024-07
+
+修改 `oh-package.json5`, keywords
 
 [gitee-repository]: https://gitee.com/guojiabing/await-to-arkts
 
